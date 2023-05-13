@@ -17,7 +17,7 @@ Step 3 : Create another class,called the Solution Class.
 
 Step 4 : Using the 'extends' keyword you can inherit classes, do the same with above created class.
 
-Step 5 : Display the statements from the first and secomd Class using Solution Class in the terminal.
+Step 5 : Display the statements from the first and second Class using Solution Class in the terminal.
 
 ## Program
 
