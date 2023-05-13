@@ -44,6 +44,7 @@ bird.fly();
 ```
 
 ## Output
+![5](https://github.com/SaiDarshan2003/Experiment-5/assets/94692595/4f5aac52-cd72-4c09-b8e4-5c497980eabe)
 
 ## Result 
   We have successfully created a Java program using inheritance one class can acquire the properties of others.
