@@ -15,7 +15,7 @@ Step 3 : Create a another class called "Bird" and create required statements.
 
 Step 3 : Create another class,called the Solution Class.
 
-Step 4 : Using the 'extends' keyword you can inherit classes, do the same with this class.
+Step 4 : Using the 'extends' keyword you can inherit classes, do the same with above created class.
 
 Step 5 : Display the statements from the first and secomd Class using Solution Class in the terminal.
 
